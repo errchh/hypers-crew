@@ -1,0 +1,30 @@
+research_customer:
+  description: >
+    Find out the customer name. 
+    Summarise the customer's product perferences and behavioural data.
+  expected_output: >
+    A concise summary.
+  agent: customer_researcher
+
+research_catalogue:
+  description: >
+    Find complimentary products based on customer's product perference.
+  expected_output: >
+    A concise summary.
+  agent: catalogue_researcher
+
+research_occassion:
+  description: >
+    Determine sales oppuntunities from occassions.
+  expected_output: >
+    A concise summary.
+  agent: occassion_researcher
+
+write:
+  description: >
+    Create a concise personalised retargeting message. Suggest complimentary products according to perference and behaviour. Include a call-to-action.
+  expected_output: >
+    Write a personalised concise retargeting message related to your understanding to the customer and occassion with call-to-action. 
+    List 3 product recommendations based on your understanding to the customer. 
+    Formatted as markdown without '```'
+  agent: copywriter

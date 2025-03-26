@@ -1,0 +1,136 @@
+[
+    {
+        "event_id": "SALE001",
+        "name": "Spring Beauty Refresh",
+        "description": "Freshen up your routine with our spring beauty sale! Enjoy discounts on select skincare, makeup, and hair care products.",
+        "start_date": "2024-03-15",
+        "end_date": "2024-03-22",
+        "discount_type": "percentage",
+        "discount_value": 20,
+        "eligible_categories": [
+            "Skincare",
+            "Makeup",
+            "Hair Care"
+        ],
+        "occasion": "Spring",
+        "target_audience": "All",
+        "image_url": "url_to_spring_sale_image"
+    },
+    {
+        "event_id": "SALE002",
+        "name": "Summer Glow Up Sale",
+        "description": "Get that summer glow with our amazing deals on sun protection, bronzers, and waterproof makeup.",
+        "start_date": "2024-06-20",
+        "end_date": "2024-06-27",
+        "discount_type": "fixed",
+        "discount_value": 10,
+        "eligible_categories": [
+            "Skincare",
+            "Makeup"
+        ],
+        "occasion": "Summer",
+        "target_audience": "All",
+        "image_url": "url_to_summer_sale_image"
+    },
+    {
+        "event_id": "SALE003",
+        "name": "Back to School Beauty Essentials",
+        "description": "Stock up on all your beauty essentials for the new school year! Discounts on everyday makeup, skincare basics, and hair styling tools.",
+        "start_date": "2024-08-10",
+        "end_date": "2024-08-17",
+        "discount_type": "percentage",
+        "discount_value": 15,
+        "eligible_categories": [
+            "Makeup",
+            "Skincare",
+            "Hair Care"
+        ],
+        "occasion": "Back to School",
+        "target_audience": "Students",
+        "image_url": "url_to_back_to_school_sale_image"
+    },
+    {
+        "event_id": "SALE004",
+        "name": "Fall Beauty Refresh",
+        "description": "Transition your beauty routine for fall with our curated selection of autumn shades and hydrating skincare.",
+        "start_date": "2024-09-20",
+        "end_date": "2024-09-27",
+        "discount_type": "percentage",
+        "discount_value": 25,
+        "eligible_categories": [
+            "Makeup",
+            "Skincare"
+        ],
+        "occasion": "Autumn",
+        "target_audience": "All",
+        "image_url": "url_to_fall_sale_image"
+    },
+    {
+        "event_id": "SALE005",
+        "name": "Holiday Glamour Sale",
+        "description": "Get ready for the holiday season with our glamorous collection of makeup, skincare sets, and gift ideas.",
+        "start_date": "2024-11-20",
+        "end_date": "2024-12-25",
+        "discount_type": "fixed",
+        "discount_value": 20,
+        "eligible_categories": [
+            "Makeup",
+            "Skincare",
+            "Fragrance",
+            "Gifts"
+        ],
+        "occasion": "Holidays",
+        "target_audience": "All",
+        "image_url": "url_to_holiday_sale_image"
+    },
+    {
+        "event_id": "SALE006",
+        "name": "Winter Skincare Essentials",
+        "description": "Protect your skin from the harsh winter weather with our hydrating and nourishing skincare essentials.",
+        "start_date": "2025-01-15",
+        "end_date": "2025-01-22",
+        "discount_type": "percentage",
+        "discount_value": 30,
+        "eligible_categories": [
+            "Skincare"
+        ],
+        "occasion": "Winter",
+        "target_audience": "All",
+        "image_url": "url_to_winter_skincare_sale_image"
+    },
+    {
+        "event_id": "OCC001",
+        "name": "Mother's Day Gift Guide",
+        "description": "Show your appreciation with the perfect beauty gifts for Mom. Explore our curated gift guide for skincare, makeup, and more.",
+        "start_date": "2024-05-01",
+        "end_date": "2024-05-12",
+        "discount_type": "percentage",
+        "discount_value": 15,
+        "eligible_categories": [
+            "Skincare",
+            "Makeup",
+            "Fragrance",
+            "Gifts"
+        ],
+        "occasion": "Mother's Day",
+        "target_audience": "All",
+        "image_url": "url_to_mothers_day_image"
+    },
+    {
+        "event_id": "OCC002",
+        "name": "Valentine's Day Beauty Treats",
+        "description": "Treat yourself or a loved one to some beauty goodies this Valentine's Day. Discover romantic makeup looks and luxurious skincare.",
+        "start_date": "2025-02-01",
+        "end_date": "2025-02-14",
+        "discount_type": "fixed",
+        "discount_value": 10,
+        "eligible_categories": [
+            "Makeup",
+            "Skincare",
+            "Fragrance"
+        ],
+        "occasion": "Valentine's Day",
+        "target_audience": "All",
+        "image_url": "url_to_valentines_day_image"
+    }
+]

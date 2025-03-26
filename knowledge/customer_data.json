@@ -1,0 +1,158 @@
+[
+    {
+        "customer_id": "78901",
+        "customer_name": "Jezebel",
+        "demographics": {
+            "age": 35,
+            "gender": "Female",
+            "location": "Boston, US",
+            "language": "en-US"
+        },
+        "behavioral_data": {
+            "browsing_history": [
+                {
+                    "product_id": "12345678",
+                    "timestamp": "2024-10-28T09:00:00Z",
+                    "category": "Skincare"
+                },
+                {
+                    "product_id": "98765432",
+                    "timestamp": "2024-10-28T09:05:00Z",
+                    "category": "Skincare"
+                },
+                {
+                    "product_id": "11223344",
+                    "timestamp": "2024-10-28T09:10:00Z",
+                    "category": "Lip Care"
+                }
+            ],
+            "purchase_history": [
+                {
+                    "order_id": "O2222",
+                    "items": [
+                        {
+                            "product_id": "12345678",
+                            "product_name": "Sun Shield SPF 50",
+                            "category": "Sunscreen"
+                        },
+                        {
+                            "product_id": "11223344",
+                            "product_name": "Hydrating Lip Balm",
+                            "category": "Lip Care"
+                        }
+                    ],
+                    "date": "2024-10-15"
+                },
+                {
+                    "order_id": "O3333",
+                    "items": [
+                        {
+                            "product_id": "98765432",
+                            "product_name": "Daily Hydrating Cream",
+                            "category": "Moisturizer"
+                        }
+                    ],
+                    "date": "2024-09-20"
+                }
+            ],
+            "search_queries": [
+                "waterproof mascara",
+                "spf lip balm",
+                "mineral sunscreen for sensitive skin",
+                "post-workout skincare"
+            ],
+            "on_site_interactions": [
+                {
+                    "page": "/product/12345678",
+                    "category": "Sunscreen",
+                    "action": "add_to_cart",
+                    "timestamp": "2024-10-28T09:12:00Z"
+                },
+                {
+                    "page": "/product/98765432",
+                    "category": "Moisturizer",
+                    "action": "view_details",
+                    "timestamp": "2024-10-28T09:05:00Z"
+                },
+                {
+                    "page": "/blog/post-workout-skincare",
+                    "category": "Skincare",
+                    "action": "read_article",
+                    "timestamp": "2024-10-27T18:00:00Z"
+                }
+            ],
+            "device_info": {
+                "device_type": "mobile",
+                "os": "iOS",
+                "browser": "Firefox"
+            }
+        },
+        "preference_data": {
+            "explicit_preferences": {
+                "skin_type": "Sensitive",
+                "concerns": [
+                    "Sun protection",
+                    "Hydration"
+                ],
+                "ingredients_to_avoid": [
+                    "Parabens",
+                    "Fragrance"
+                ],
+                "brands": [
+                    "Brand A (natural)",
+                    "Brand B (dermatologist recommended)"
+                ]
+            },
+            "inferred_preferences": {
+                "product_categories": [
+                    "Skincare",
+                    "Lip Care",
+                    "Skincare"
+                ],
+                "features": [
+                    "Waterproof",
+                    "SPF 30+",
+                    "Mineral-based"
+                ],
+                "price_range": [
+                    15,
+                    50
+                ]
+            },
+            "wishlist": [
+                "55667788 (Tinted Moisturizer with SPF)"
+            ]
+        },
+        "contextual_data": {
+            "current_location": "Denver, CO",
+            "time_of_day": "Morning",
+            "weather": "Sunny",
+            "outdoor_activity": "Hiking",
+            "referral_source": "Instagram Ad - Outdoor Influencer"
+        },
+        "sentiment_and_feedback": {
+            "product_reviews": [
+                {
+                    "product_id": "12345678",
+                    "product_name": "Sun Shield SPF 50",
+                    "rating": 5,
+                    "comment": "This sunscreen is perfect for hiking! Doesn't irritate my sensitive skin and provides great protection."
+                },
+                {
+                    "product_id": "11223344",
+                    "product_name": "Hydrating Lip Balm",
+                    "rating": 4,
+                    "comment": "Love this lip balm. Keeps my lips hydrated even in dry weather."
+                }
+            ],
+            "social_media_interactions": [
+                {
+                    "platform": "Instagram",
+                    "mention": "@beauty_brand",
+                    "sentiment": "positive",
+                    "content": "Loving the new mineral sunscreen! Perfect for my outdoor adventures. #outdoorskincare #sunprotection"
+                }
+            ]
+        }
+    }
+]

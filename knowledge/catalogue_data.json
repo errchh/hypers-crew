@@ -1,0 +1,396 @@
+[
+    {
+        "product_id": "10000001",
+        "name": "Hydrating Facial Cleanser",
+        "category": "Skincare",
+        "subcategory": "Facial Cleanser",
+        "brand": "GlowSkin",
+        "description": "A gentle, hydrating cleanser that removes impurities without stripping the skin's natural oils.",
+        "price": 25.00,
+        "ingredients": [
+            "Hyaluronic Acid",
+            "Aloe Vera",
+            "Glycerin"
+        ],
+        "skin_types": [
+            "Dry",
+            "Normal",
+            "Sensitive"
+        ],
+        "benefits": [
+            "Hydrating",
+            "Soothing",
+            "Cleansing"
+        ],
+        "image_url": "url_to_cleanser_image",
+        "complementary_products": [
+            "10000002",
+            "10000003"
+        ]
+    },
+    {
+        "product_id": "10000002",
+        "name": "Vitamin C Serum",
+        "category": "Skincare",
+        "subcategory": "Face Serum",
+        "brand": "GlowSkin",
+        "description": "A potent serum that brightens skin, reduces dark spots, and promotes collagen production.",
+        "price": 45.00,
+        "ingredients": [
+            "Vitamin C",
+            "Vitamin E",
+            "Ferulic Acid"
+        ],
+        "skin_types": [
+            "All"
+        ],
+        "benefits": [
+            "Brightening",
+            "Anti-aging",
+            "Antioxidant"
+        ],
+        "image_url": "url_to_serum_image",
+        "complementary_products": [
+            "10000001",
+            "10000004"
+        ]
+    },
+    {
+        "product_id": "10000003",
+        "name": "Daily Moisturizer with SPF 30",
+        "category": "Skincare",
+        "subcategory": "Face Moisturizer",
+        "brand": "GlowSkin",
+        "description": "A lightweight moisturizer that provides daily hydration and broad-spectrum sun protection.",
+        "price": 30.00,
+        "ingredients": [
+            "Hyaluronic Acid",
+            "Niacinamide",
+            "Zinc Oxide"
+        ],
+        "skin_types": [
+            "Normal",
+            "Combination",
+            "Oily"
+        ],
+        "benefits": [
+            "Hydrating",
+            "Sun Protection",
+            "Lightweight"
+        ],
+        "image_url": "url_to_moisturizer_image",
+        "complementary_products": [
+            "10000001",
+            "10000005"
+        ]
+    },
+    {
+        "product_id": "10000004",
+        "name": "Retinol Night Cream",
+        "category": "Skincare",
+        "subcategory": "Night Cream",
+        "brand": "GlowSkin",
+        "description": "A rich night cream formulated with retinol to reduce fine lines and wrinkles.",
+        "price": 50.00,
+        "ingredients": [
+            "Retinol",
+            "Peptides",
+            "Shea Butter"
+        ],
+        "skin_types": [
+            "Mature",
+            "Normal"
+        ],
+        "benefits": [
+            "Anti-aging",
+            "Wrinkle Reduction",
+            "Firming"
+        ],
+        "image_url": "url_to_night_cream_image",
+        "complementary_products": [
+            "10000002"
+        ]
+    },
+    {
+        "product_id": "10000005",
+        "name": "Hydrating Lip Balm",
+        "category": "Skincare",
+        "subcategory": "Lip Balm",
+        "brand": "GlowSkin",
+        "description": "A deeply hydrating lip balm that soothes and protects dry, chapped lips.",
+        "price": 8.00,
+        "ingredients": [
+            "Beeswax",
+            "Shea Butter",
+            "Vitamin E"
+        ],
+        "benefits": [
+            "Hydrating",
+            "Soothing",
+            "Protective"
+        ],
+        "image_url": "url_to_lip_balm_image",
+        "complementary_products": [
+            "10000003"
+        ]
+    },
+    {
+        "product_id": "10000006",
+        "name": "Volumizing Mascara",
+        "category": "Makeup",
+        "subcategory": "Eye Makeup",
+        "brand": "GlamourEyes",
+        "description": "A mascara that adds dramatic volume and length to lashes.",
+        "price": 20.00,
+        "ingredients": [
+            "Carnauba Wax",
+            "Panthenol"
+        ],
+        "benefits": [
+            "Volumizing",
+            "Lengthening",
+            "Smudge-proof"
+        ],
+        "image_url": "url_to_mascara_image",
+        "complementary_products": [
+            "10000007"
+        ]
+    },
+    {
+        "product_id": "10000007",
+        "name": "Eyeliner Pen",
+        "category": "Makeup",
+        "subcategory": "Eye Makeup",
+        "brand": "GlamourEyes",
+        "description": "A precise eyeliner pen for creating sharp lines and dramatic looks.",
+        "price": 18.00,
+        "ingredients": [
+            "Carbon Black",
+            "Polymers"
+        ],
+        "benefits": [
+            "Precise Application",
+            "Long-lasting",
+            "Waterproof"
+        ],
+        "image_url": "url_to_eyeliner_image",
+        "complementary_products": [
+            "10000006"
+        ]
+    },
+    {
+        "product_id": "10000008",
+        "name": "Essential Oil Diffuser",
+        "category": "Lifestyle",
+        "subcategory": "Home Fragrance",
+        "brand": "AromaLife",
+        "description": "An ultrasonic diffuser that creates a relaxing and aromatic atmosphere.",
+        "price": 40.00,
+        "benefits": [
+            "Relaxation",
+            "Aromatherapy",
+            "Improved Sleep"
+        ],
+        "image_url": "url_to_diffuser_image",
+        "complementary_products": [
+            "10000009",
+            "10000010"
+        ]
+    },
+    {
+        "product_id": "10000009",
+        "name": "Lavender Essential Oil",
+        "category": "Lifestyle",
+        "subcategory": "Essential Oils",
+        "brand": "AromaLife",
+        "description": "Pure lavender essential oil known for its calming and relaxing properties.",
+        "price": 15.00,
+        "benefits": [
+            "Relaxation",
+            "Sleep Aid",
+            "Stress Relief"
+        ],
+        "image_url": "url_to_lavender_oil_image",
+        "complementary_products": [
+            "10000008"
+        ]
+    },
+    {
+        "product_id": "10000010",
+        "name": "Eucalyptus Essential Oil",
+        "category": "Lifestyle",
+        "subcategory": "Essential Oils",
+        "brand": "AromaLife",
+        "description": "Pure eucalyptus essential oil known for its respiratory benefits and invigorating scent.",
+        "price": 12.00,
+        "benefits": [
+            "Respiratory Support",
+            "Invigorating",
+            "Cleansing"
+        ],
+        "image_url": "url_to_eucalyptus_oil_image",
+        "complementary_products": [
+            "10000008"
+        ]
+    },
+    {
+        "product_id": "10000011",
+        "name": "Silk Pillowcase",
+        "category": "Lifestyle",
+        "subcategory": "Sleep & Wellness",
+        "brand": "SilkDreams",
+        "description": "A luxurious silk pillowcase that promotes healthier hair and skin while you sleep.",
+        "price": 35.00,
+        "benefits": [
+            "Reduces Hair Breakage",
+            "Prevents Wrinkles",
+            "Hypoallergenic"
+        ],
+        "image_url": "url_to_pillowcase_image",
+        "complementary_products": []
+    },
+    {
+        "product_id": "10000012",
+        "name": "Yoga Mat",
+        "category": "Lifestyle",
+        "subcategory": "Fitness & Yoga",
+        "brand": "ZenLife",
+        "description": "A non-slip yoga mat for comfortable and stable practice.",
+        "price": 25.00,
+        "benefits": [
+            "Comfort",
+            "Stability",
+            "Non-slip"
+        ],
+        "image_url": "url_to_yoga_mat",
+        "complementary_products": [
+            "10000013"
+        ]
+    },
+    {
+        "product_id": "20000001",
+        "name": "Organic Green Tea",
+        "category": "Wellness",
+        "subcategory": "Tea & Beverages",
+        "brand": "Nature's Brew",
+        "description": "Premium organic green tea leaves, rich in antioxidants and perfect for a refreshing boost.",
+        "price": 12.00,
+        "benefits": [
+            "Antioxidant",
+            "Metabolism Boost",
+            "Relaxation"
+        ],
+        "image_url": "url_to_green_tea_image",
+        "complementary_products": [
+            "20000002"
+        ]
+    },
+    {
+        "product_id": "20000002",
+        "name": "Vitamin D3 Supplements",
+        "category": "Wellness",
+        "subcategory": "Vitamins & Supplements",
+        "brand": "Wellspring Nutrition",
+        "description": "High-potency Vitamin D3 capsules to support bone health and immune function.",
+        "price": 18.00,
+        "benefits": [
+            "Immune Support",
+            "Bone Health",
+            "Mood Enhancement"
+        ],
+        "image_url": "url_to_vitamin_d3_image",
+        "complementary_products": [
+            "20000003"
+        ]
+    },
+    {
+        "product_id": "20000003",
+        "name": "Omega-3 Fish Oil Capsules",
+        "category": "Wellness",
+        "subcategory": "Vitamins & Supplements",
+        "brand": "Wellspring Nutrition",
+        "description": "Omega-3 fatty acids to support heart health, brain function, and joint health.",
+        "price": 25.00,
+        "benefits": [
+            "Heart Health",
+            "Brain Function",
+            "Joint Health"
+        ],
+        "image_url": "url_to_omega3_image",
+        "complementary_products": [
+            "20000002"
+        ]
+    },
+    {
+        "product_id": "20000004",
+        "name": "Probiotic Capsules",
+        "category": "Wellness",
+        "subcategory": "Probiotics & Digestion",
+        "brand": "Gut Harmony",
+        "description": "A blend of probiotic strains to support gut health and digestion.",
+        "price": 20.00,
+        "benefits": [
+            "Digestive Health",
+            "Immune Support",
+            "Gut Microbiome Balance"
+        ],
+        "image_url": "url_to_probiotic_image",
+        "complementary_products": [
+            "20000012"
+        ]
+    },
+    {
+        "product_id": "20000005",
+        "name": "Collagen Peptides Powder",
+        "category": "Wellness",
+        "subcategory": "Protein & Collagen",
+        "brand": "Inner Strength",
+        "description": "Hydrolyzed collagen peptides to support skin elasticity, joint health, and hair & nail growth.",
+        "price": 30.00,
+        "benefits": [
+            "Skin Elasticity",
+            "Joint Health",
+            "Hair & Nail Growth"
+        ],
+        "image_url": "url_to_collagen_image",
+        "complementary_products": [
+            "20000003"
+        ]
+    },
+    {
+        "product_id": "20000006",
+        "name": "Sleep Well Tea",
+        "category": "Wellness",
+        "subcategory": "Tea & Beverages",
+        "brand": "Nature's Brew",
+        "description": "A calming herbal tea blend to promote relaxation and restful sleep.",
+        "price": 14.00,
+        "benefits": [
+            "Relaxation",
+            "Sleep Aid",
+            "Stress Relief"
+        ],
+        "image_url": "url_to_sleep_tea_image",
+        "complementary_products": [
+            "20000002"
+        ]
+    },
+    {
+        "product_id": "20000007",
+        "name": "Magnesium Citrate Powder",
+        "category": "Wellness",
+        "subcategory": "Minerals & Electrolytes",
+        "brand": "Vital Minerals",
+        "description": "Magnesium citrate powder to support muscle function, nerve health, and relaxation.",
+        "price": 16.00,
+        "benefits": [
+            "Muscle Relaxation",
+            "Nerve Health",
+            "Sleep Support"
+        ],
+        "image_url": "url_to_magnesium_image",
+        "complementary_products": [
+            "20000002"
+        ]
+    }
+]
